@@ -13,7 +13,7 @@ ss=soma(10,20)
 console.log(ss)
 
 function calc(f, a, b){
-    return f(a,b)
+    return f(a,b)  
 }
 
 s = calc(soma,11,22)
